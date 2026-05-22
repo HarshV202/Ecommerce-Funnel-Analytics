@@ -12,7 +12,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-DATA_DIR = r"C:\Users\Harsh\Desktop\Analytics Project"
+DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 
 # ── Load data ─────────────────────────────────────────────
 @st.cache_data
