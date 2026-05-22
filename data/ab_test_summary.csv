@@ -1,0 +1,2 @@
+uplift_applied_pct,relative_uplift_pct,z_statistic,p_value,ci_lower_pct,ci_upper_pct,significant,verdict
+15.0,13.79,7.972,0.0,2.8491,4.7043,True,Roll out

@@ -1,0 +1,3 @@
+group,visitors,buyers,conv_rate_pct,simulated
+Control,18357,5028,27.3901,False
+Treatment,18555,5783,31.1668,True
